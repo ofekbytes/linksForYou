@@ -1,0 +1,9 @@
+
+[rtfm - java]
+
+--base64--
+
+https://www.javagists.com/convert-an-image-to-base64-string-in-java
+https://stackoverflow.com/questions/36492084/how-to-convert-an-image-to-base64-string-in-java
+https://javapointers.com/tutorial/java-convert-image-to-base64-string-and-base64-to-image/
+
